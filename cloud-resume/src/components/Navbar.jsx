@@ -19,21 +19,21 @@ import {FaBars}  from 'react-icons/fa'
                         <a href ="#creators">Home</a>
                         </li>
                         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
-                        <a href ="#specs">About</a>
+                        <a href ="#specs">About me</a>
                         </li>
                         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
-                        <a href ="#subscribe">Features</a>
+                        <a href ="#subscribe">Projects</a>
                         </li>
                         </ul>
 
-                        <a href ="#hero" className='mr-20 text-2xl font-bold '><h1>Phoke</h1></a>
+                        
                         
                         <ul className='flex font-bold '>
                         <li className="">
-                        <button className='border-none bg-[#0061F1] text-white  p-2 w-[120px] '>LOGIN</button>
+                        <button className='border-none bg-[#0061F1] text-white  p-2 w-[120px] '>Resume</button>
                         </li>
                         <li className=''>
-                        <button className=' text-[#0061F1] p-2 w-[120px] bg-white'>SIGN UP</button>
+                        <button className=' text-[#0061F1] p-2 w-[120px] bg-white'>Connect </button>
                         </li>
                          </ul>
                         
