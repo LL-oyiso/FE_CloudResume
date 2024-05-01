@@ -4,7 +4,7 @@ import React from 'react'
 function Hero() {
   return (
     <>
-    <div className='w-full h-[800px] bg-black'>
+    <div className='w-full h-[600px] bg-black'>
         <div className=' justify-around text-white p-4 max-w-[1500px] m-auto  '>
         <div className=' text-white absolute top-[22%]  max-w-[690px]  h-full '>
         <h1 className='font-bold text-[58px] font-[Inter]'>You’ve never experiened <span className='text-[#8F8F8F]'>texting like this before</span> </h1>
